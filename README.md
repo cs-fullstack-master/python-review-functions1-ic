@@ -1,1 +1,16 @@
-# Python review function introduction (without arrays/dictionaries)
+# Python review function introduction
+
+### Problem 1:
+
+
+### Problem 2:
+
+
+### Problem 3:
+
+
+### Problem 4:
+
+
+
+
