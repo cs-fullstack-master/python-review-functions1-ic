@@ -1,2 +1,1 @@
-# python-review-functions1-ic
-Python review function introduction (without arrays/dictionaries)
+# Python review function introduction (without arrays/dictionaries)
